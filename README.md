@@ -16,14 +16,6 @@ ______________________________________________________________________________
 Open-source.
 
 You can see the codings by right-clicking "upgrade.js" and open it as Notepad (I recommend to open it as Notepad++)
-______________________________________________________________________________
-Q&A
-
-Q) How long did it take to make this program?
-A) Took the total of 2 days including my free-time.
-
-Q) It don't work! :'(
-A) Report the problem in our official Github site (In the bug section.)
 _______________________________________________________________________________
 If it doesn't work, it may be a bug or problem. Report it in our official Github site in the bug section.
 ________________________________________________________________________________
